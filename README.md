@@ -23,6 +23,9 @@ Tampilan Awal Form
 
 Tampilan Setelah Pendaftaran Berhasil**
 
+<img width="1366" height="768" alt="Screenshot (657)" src="https://github.com/user-attachments/assets/a9d254ad-8fc2-401a-8af8-a11ed314ded9" />
+
+
 <img width="1366" height="768" alt="Screenshot (658)" src="https://github.com/user-attachments/assets/5b0c0242-67f6-4513-bb49-1bebc5c65b10" />
 
 
