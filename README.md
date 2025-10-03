@@ -13,7 +13,7 @@ konfigurasi.
 form HTML.
 - Validasi dengan Regex: Memastikan format input email dan tanggal
 lahir (DD-MM-YYYY) sudah benar.
-- **Operasi File: Menyimpan setiap pendaftar yang valid ke dalam file
+- Operasi File: Menyimpan setiap pendaftar yang valid ke dalam file
 `pendaftar.txt`.
 - Menampilkan Data: Membaca data dari `pendaftar.txt` dan
 menampilkannya dalam bentuk tabel.
